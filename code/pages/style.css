@@ -83,9 +83,8 @@ div.gallery1 img{
   color:black;
   text-align:center;
   margin-left: 50px;
-  margin-top: 40px; 
+  margin-top: 100px; 
   margin-right:40px;
-  position:relative;
 }
 
 .Htour {
@@ -105,7 +104,7 @@ div.gallery1 img{
 }
 .tourcontainer {
   width:100%;
-  height:1600px;
+  height:1800px;
   margin-bottom:0px; 
   background-color:rgb(196, 196, 171);
   padding-bottom:20px;
@@ -115,7 +114,7 @@ div.gallery1 img{
 
 .tourcontainer2{
   width:100%;
-  height:1300px;
+  height:1450px;
   margin-bottom: 0px; 
   background-color:rgb(196, 196, 171);
   padding-bottom:0px;
@@ -124,7 +123,7 @@ div.gallery1 img{
 }
 .tourcontainer5{
   width:100%;
-  height:1250px;
+  height:1400px;
   margin-bottom: 0px; 
   background-color:rgb(196, 196, 171);
   padding-bottom:30px;
